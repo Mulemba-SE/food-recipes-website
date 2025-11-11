@@ -124,7 +124,7 @@ Once approved, it will be merged into the main repository.
 
 <br>
 
-## GSSOC'23 Issue TimeLine
+## GSSOC'25 Issue TimeLine
 
 - Once an issue is assigned,the assignee is expected to submit a pr for review within a week of the assignment. 
 
@@ -132,7 +132,7 @@ Once approved, it will be merged into the main repository.
 
 
 
-## GSSOC'23 Pointer System
+## GSSOC'25 Pointer System
 
 ## Level 1 - Documentation/Minor bug fix 
 ### Points - 10 
@@ -210,5 +210,3 @@ We appreciate your contributions!! Happy Coding!! 🤍
 Thank you to all the amazing contributors who have made this project possible, Keep up the great work! Happy Coding! 🤍
 
 <br><br>
-
-
